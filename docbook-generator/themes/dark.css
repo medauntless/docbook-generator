@@ -1,4 +1,0 @@
-@import url("light.css");
-:root { --paper: #111318; --ink: #e9edf2; --muted: #a6adbb; --heading: #ffffff; --insight: #7ab7ff; --code-bg: #1b2029; --line: #3a4352; --rule: #69d090; --warning: #ff7b7b; --definition: #b99aff; --tip: #63d4e4; --nomenclature: #f2b35f; --insight-bg: #16253a; --rule-bg: #162c22; --warning-bg: #321c21; --definition-bg: #251f36; --tip-bg: #172c32; --nomenclature-bg: #302516; }
-@page { background: var(--paper); }
-.highlight .hll { background-color: #2a3140; }
