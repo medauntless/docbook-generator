@@ -1,0 +1,2 @@
+@import url("light.css");
+:root { --paper: #fbf4e6; --ink: #2f2a23; --muted: #746758; --heading: #1f2933; --insight: #2f6f9f; --code-bg: #f1e6d2; --line: #d6c6ad; --rule: #357a50; --warning: #b33a3a; --definition: #7451a6; --tip: #237b83; --nomenclature: #a76118; --insight-bg: #e8f0f4; --rule-bg: #edf4e7; --warning-bg: #f6e7df; --definition-bg: #eee5f2; --tip-bg: #e5f2ee; --nomenclature-bg: #f7ead3; }
