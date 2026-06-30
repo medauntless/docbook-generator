@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.env.*
+.venv/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Build output
+build/
+dist/
+*.egg-info/
+
+# Input files
+input/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# pipenv
+Pipfile.lock
+
+# Pyre
+.pyre/
+
+# Output files
+output/
